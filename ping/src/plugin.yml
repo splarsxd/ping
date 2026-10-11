@@ -1,0 +1,9 @@
+name: ping
+main: com.ping.ping
+version: 1.0
+author: Splars
+description: Check your own or another player's ping with /ping
+commands:
+  ping:
+    description: Check your ping, or another player's ping
+    usage: /ping [player]
